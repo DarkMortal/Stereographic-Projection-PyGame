@@ -1,8 +1,7 @@
-
 class Setting:
     def __init__(self):
-        self.width = 1920
-        self.height = 1080
+        self.width = 1366
+        self.height = 768
         self.black = (0, 0, 0)
         self.white = (255, 255, 255)
         self.yellow = (255, 212, 71)
